@@ -39,15 +39,15 @@ body {
 
 .matches, .windandlose {
 	float: left;
-    width: 20%;
-    margin-top: 18px;
-    margin-left: 16px;
-    padding-left: 18px;
+    width: 18%;
+    margin-top: 20px;
+    margin-left: 23px;
+    padding-left: 23px;
 }
 
 .matches {
     height: 60px;
-    background-color: darkturquoise;
+    background-color: black;
     color: snow;
 }
 
