@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 	colorcrystals = ['assets/images/codingtrainlogo.jpg', 'assets/images/codingtrainsemicolon.jpg', 'assets/images/daddyDdance.jpg', 'assets/images/daddydaniel.jpg'];
 	
-	var wins = 68;
+	var wins = 89;
 	var lose = 0;
 	var yourscore = 0;
 	
