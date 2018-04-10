@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 46;
 	padding: 46;
 	border: 34;
-	font-size: 150%;
+	font-size: 180%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -44,5 +44,5 @@ q:before, q:after {
 }
 table {
 	border-collapse: collapse;
-	border-spacing: 30;
+	border-spacing: 80;
 }
