@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	colorcrystals = ['assets/images/codingtrainlogo.jpg', 'assets/images/codingtrainsemicolon.jpg', 'assets/images/yellowcrystal.jpg', 'assets/images/greencrystal.jpg'];
+	colorcrystals = ['assets/images/codingtrainlogo.jpg', 'assets/images/codingtrainsemicolon.jpg', 'assets/images/daddyDdance.jpg', 'assets/images/daddydaniel.jpg'];
 	
 	var wins = 68;
 	var lose = 0;
